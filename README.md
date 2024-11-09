@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NerseyAtTheSynergistDotOrg
 - 👀 I’m interested in learning more about healthcare
-- 🌱 I’m currently learning about privacy if patient data
-- 💞️ I’m looking to collaborate on Clinical Trials initiatives
+- 🌱 I’m currently learning about privacy of patient data
+- 💞️ I’m looking to collaborate on Clinical Trials data exchage initiatives
 - 📫 How to reach me nersey@thesynergist.org
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: mentor up-and-coming talent to land their next job
